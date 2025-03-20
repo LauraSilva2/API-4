@@ -1,6 +1,4 @@
 # API-4
-# LogiMax Insights
-
 
 
 
