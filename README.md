@@ -113,7 +113,11 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 - [ ] Análise gráfica final em Power BI;
 - [ ] Cenário realizado e Cenário comparativo.
       
-      
+ ## Sprint 4 . 
+- [ ] Análise dos dados, verificar possíveis melhorias dos dados obtidos;
+- [ ] Registro técnico do desenvolvimento do projeto e equipe (Relatório 3);
+- [ ] Análise gráfica final em Power BI;
+- [ ] Cenário realizado e Cenário comparativo.   
       
       
 
