@@ -89,35 +89,17 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 
 ## Sprint 1. 
-- [x] Estudo ênfase em Python;
-- [x] Estudo ênfase em SQL;
-- [x] Análise do CIF e FOB.
-- [x] Modelo de Banco de dados consolidados em SQL;
-- [x] Visualização gráficas iniciais de métricas importantes, como a quantidade transportada por mês e por veículo, a quantidade transportada por fábrica, o valor do frete por fábrica e a média de aproveitamento por veículo no Power BI; 
-- [x] Registro técnico do desenvolvimento do projeto e equipe (Relatório 1);
-- [x] Relação entre Power BI com os dados do Python;
-- [x] Análise das variáveis;
+
 
 
 ## Sprint 2. 
-- [ ] Estudo de otimização em Python;
-- [ ] Visualização gráficas da consolidação dos dados em Power BI;
-- [ ] Registro técnico do desenvolvimento do projeto e equipe (Relatório 2);
-- [ ] Funções para mensurar a produtividade das 3 plantas;
-- [ ] Método de Transporte;
-- [ ] Evolução dos custos.
+
       
 ## Sprint 3 . 
-- [ ] Análise dos dados, verificar possíveis melhorias dos dados obtidos;
-- [ ] Registro técnico do desenvolvimento do projeto e equipe (Relatório 3);
-- [ ] Análise gráfica final em Power BI;
-- [ ] Cenário realizado e Cenário comparativo.
+
       
  ## Sprint 4 . 
-- [ ] Análise dos dados, verificar possíveis melhorias dos dados obtidos;
-- [ ] Registro técnico do desenvolvimento do projeto e equipe (Relatório 3);
-- [ ] Análise gráfica final em Power BI;
-- [ ] Cenário realizado e Cenário comparativo.   
+ 
       
       
 
