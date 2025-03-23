@@ -4,9 +4,9 @@
 
 # Índice
 * [Projeto](#projeto-api)
-* [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Resultados Esperados](#resultados-esperados)
+* [Equipe](#equipe)
 * [Cronograma das Sprints](#cronograma-das-sprints)
 * [Backlog do Produto](#backlog-do-produto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
@@ -17,6 +17,14 @@
 O projeto, fundamentado na metodologia Ágil Scrum, visa realizar a or Análise de Eficiência de Terminais Portuários no Brasil, com o objetivo de aprimorar a distribuição e, assim, diminuir os custos logísticos.
 
 
+      
+# Objetivo do Projeto
+O projeto "Análise de Eficiência de Terminais Portuários no Brasil" tem como objetivo principal fornecer uma visão clara e objetiva sobre a produtividade e o desempenho dos terminais portuários. A proposta é desenvolver uma solução que permita aos clientes comparar a eficiência dos terminais, identificar quais apresentam maiores tempos de espera e compreender os principais fatores que impactam as paradas portuárias, considerando, por exemplo, períodos específicos do ano. Além disso, o projeto busca disponibilizar informações sobre as principais cargas transportadas em cada terminal, analisando se há padrões ou motivos específicos para a predominância de determinados tipos de carga. Outro aspecto relevante é a identificação dos portos que movimentam o maior volume de transporte, permitindo uma visão mais estratégica do setor
+
+# Resultados Esperados
+Os resultados esperados do projeto "Análise de Eficiência de Terminais Portuários no Brasil" incluem a criação de uma ferramenta analítica que possibilite uma avaliação mais precisa da eficiência dos terminais portuários. Espera-se que essa solução permita aos usuários visualizar comparações objetivas entre os terminais, identificando quais apresentam maior produtividade e quais enfrentam problemas, como altos tempos de espera.
+
+Além disso, o projeto deve fornecer insights sobre os principais motivos das paradas portuárias, permitindo uma melhor compreensão dos fatores que impactam a operação, como sazonalidade e demandas específicas. Também se espera que os usuários consigam analisar os tipos de cargas movimentadas em cada terminal e identificar padrões logísticos que possam influenciar a tomada de decisões estratégicas.
 # Equipe
 
 </details>
@@ -32,16 +40,6 @@ O projeto, fundamentado na metodologia Ágil Scrum, visa realizar a or Análise 
 | Team Member (Miriã Chaves)    | <img src="API/miria.jpeg" width="100" />   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miri%C3%A3-rodrigues-martins-chaves-9573b51a1/) | ![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)        |
 | Team Member (Lucca Silva)     | <img src="imagens/designer.jpg" width="100" />   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucca-silva02/) | ![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)          |
 | Team Member (Anderson Carvalho)     | <img src="API/anderson.jpeg" width="100" />   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-carvalho-0a5317191/) | ![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)          |
-
-
-      
-# Objetivo do Projeto
-O projeto "Análise de Eficiência de Terminais Portuários no Brasil" tem como objetivo principal fornecer uma visão clara e objetiva sobre a produtividade e o desempenho dos terminais portuários. A proposta é desenvolver uma solução que permita aos clientes comparar a eficiência dos terminais, identificar quais apresentam maiores tempos de espera e compreender os principais fatores que impactam as paradas portuárias, considerando, por exemplo, períodos específicos do ano. Além disso, o projeto busca disponibilizar informações sobre as principais cargas transportadas em cada terminal, analisando se há padrões ou motivos específicos para a predominância de determinados tipos de carga. Outro aspecto relevante é a identificação dos portos que movimentam o maior volume de transporte, permitindo uma visão mais estratégica do setor
-
-# Resultados Esperados
-Os resultados esperados do projeto "Análise de Eficiência de Terminais Portuários no Brasil" incluem a criação de uma ferramenta analítica que possibilite uma avaliação mais precisa da eficiência dos terminais portuários. Espera-se que essa solução permita aos usuários visualizar comparações objetivas entre os terminais, identificando quais apresentam maior produtividade e quais enfrentam problemas, como altos tempos de espera.
-
-Além disso, o projeto deve fornecer insights sobre os principais motivos das paradas portuárias, permitindo uma melhor compreensão dos fatores que impactam a operação, como sazonalidade e demandas específicas. Também se espera que os usuários consigam analisar os tipos de cargas movimentadas em cada terminal e identificar padrões logísticos que possam influenciar a tomada de decisões estratégicas.
 
 # Cronograma das Sprints
 
