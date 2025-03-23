@@ -14,7 +14,7 @@
 
 
 # Projeto (API) 
-O projeto, fundamentado na metodologia Ágil Scrum, visa realizar a análise da eficiência das rotas em uma empresa embarcadora, com o objetivo de aprimorar a distribuição e, assim, diminuir os custos logísticos.
+O projeto, fundamentado na metodologia Ágil Scrum, visa realizar a or Análise de Eficiência de Terminais Portuários no Brasil, com o objetivo de aprimorar a distribuição e, assim, diminuir os custos logísticos.
 
 
 # Equipe
