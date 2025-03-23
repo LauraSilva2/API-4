@@ -35,10 +35,10 @@ O projeto, fundamentado na metodologia Ágil Scrum, visa realizar a or Análise 
 
 
 # Organograma
-| Nome       | Imagem                               |
-|------------|-------------------------------------|
-| Exemplo 1  | ![Imagem](https://via.placeholder.com/100) |
-| Exemplo 2  | ![Imagem](https://via.placeholder.com/150) |
+| Nome       | Imagem |
+|------------|--------|
+| Exemplo 1  | <img src="https://via.placeholder.com/150" width="50"> |
+| Exemplo 2  | <img src="https://via.placeholder.com/150" width="75"> |
 
       
 # Objetivo do Projeto
