@@ -53,7 +53,7 @@ Além disso, o projeto deve fornecer insights sobre os principais motivos das pa
 Sprint | Previsão | Status| Histórico| 
 |------|--------|------|--------|
 |Kick Off | 14/03/2025 | Concluído | [Ver Relatório]() | 
-|01| 04/04/2025|  Não iniciado |[Ver Relatório]() | 
+|01| 04/04/2025|  iniciado |[Ver Relatório]() | 
 |02| 25/04/2025| Não iniciado|[Ver Relatório]() | 
 |03| 16/05/2025 | Não iniciado |[Ver Relatório]()  | 
 |Feira de Soluções| 29/05/2025 | Não iniciado|[Ver Relatório]()  | 
