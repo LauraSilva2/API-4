@@ -41,12 +41,12 @@ O projeto, fundamentado na metodologia Ágil Scrum, visa realizar a or Análise 
 <p align="center">
       
 # Objetivo do Projeto
-O propósito deste projeto é aprimorar as rotas de três unidades de uma mesma empresa através da aplicação de métodos de pesquisa operacional. O objetivo é criar um modelo que aumente a eficiência logística, reduzindo custos e tempo de transporte entre as unidades, e assim assegurar uma distribuição mais rápida e econômica dos produtos.
+O projeto "Análise de Eficiência de Terminais Portuários no Brasil" tem como objetivo principal fornecer uma visão clara e objetiva sobre a produtividade e o desempenho dos terminais portuários. A proposta é desenvolver uma solução que permita aos clientes comparar a eficiência dos terminais, identificar quais apresentam maiores tempos de espera e compreender os principais fatores que impactam as paradas portuárias, considerando, por exemplo, períodos específicos do ano. Além disso, o projeto busca disponibilizar informações sobre as principais cargas transportadas em cada terminal, analisando se há padrões ou motivos específicos para a predominância de determinados tipos de carga. Outro aspecto relevante é a identificação dos portos que movimentam o maior volume de transporte, permitindo uma visão mais estratégica do setor
 
 # Resultados Esperados
-O resultado desejado do modelo de otimização usando pesquisa operacional é a definição das rotas de transporte mais eficazes entre as três plantas da empresa. O objetivo é que o modelo ofereça um plano detalhado que reduza ao máximo os custos totais de transporte, levando em conta aspectos como distância, capacidade dos veículos, tempo de deslocamento e restrições operacionais.
+Os resultados esperados do projeto "Análise de Eficiência de Terminais Portuários no Brasil" incluem a criação de uma ferramenta analítica que possibilite uma avaliação mais precisa da eficiência dos terminais portuários. Espera-se que essa solução permita aos usuários visualizar comparações objetivas entre os terminais, identificando quais apresentam maior produtividade e quais enfrentam problemas, como altos tempos de espera.
 
-Espera-se que o modelo matemático determine as rotas mais rápidas e econômicas, assegurando entregas pontuais e minimizando o tempo ocioso dos veículos. Além disso, o modelo deve ser flexível o suficiente para se ajustar a diferentes cenários e condições operacionais, permitindo lidar com imprevistos e variações na demanda.
+Além disso, o projeto deve fornecer insights sobre os principais motivos das paradas portuárias, permitindo uma melhor compreensão dos fatores que impactam a operação, como sazonalidade e demandas específicas. Também se espera que os usuários consigam analisar os tipos de cargas movimentadas em cada terminal e identificar padrões logísticos que possam influenciar a tomada de decisões estratégicas.
 
 # Cronograma das Sprints
 
