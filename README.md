@@ -90,18 +90,27 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 ## Sprint 1. 
 
+- [ ] 
+- [ ] 
+- [ ] 
+
 
 
 ## Sprint 2. 
+- [ ] 
+- [ ] 
+- [ ] 
 
       
 ## Sprint 3 . 
-
-      
- ## Sprint 4 . 
+- [ ] 
+- [ ] 
+- [ ] 
  
-      
-      
+ ## Sprint 4 . 
+ - [ ] 
+ - [ ]    
+ - [ ]  
 
   
 # Competências desenvolvidas
