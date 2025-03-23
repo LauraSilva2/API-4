@@ -35,10 +35,11 @@ O projeto, fundamentado na metodologia Ágil Scrum, visa realizar a or Análise 
 
 
 # Organograma
-<div id="top"></div> 
-<p align="center"> 
-      <img src="Image.jpg" width="70%" height="70%"> 
-<p align="center">
+| Nome       | Imagem                               |
+|------------|-------------------------------------|
+| Exemplo 1  | ![Imagem](https://via.placeholder.com/100) |
+| Exemplo 2  | ![Imagem](https://via.placeholder.com/150) |
+
       
 # Objetivo do Projeto
 O projeto "Análise de Eficiência de Terminais Portuários no Brasil" tem como objetivo principal fornecer uma visão clara e objetiva sobre a produtividade e o desempenho dos terminais portuários. A proposta é desenvolver uma solução que permita aos clientes comparar a eficiência dos terminais, identificar quais apresentam maiores tempos de espera e compreender os principais fatores que impactam as paradas portuárias, considerando, por exemplo, períodos específicos do ano. Além disso, o projeto busca disponibilizar informações sobre as principais cargas transportadas em cada terminal, analisando se há padrões ou motivos específicos para a predominância de determinados tipos de carga. Outro aspecto relevante é a identificação dos portos que movimentam o maior volume de transporte, permitindo uma visão mais estratégica do setor
