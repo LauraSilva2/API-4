@@ -87,16 +87,12 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 ## Sprint 1. 
 
-- [ ] 
-- [ ] 
-- [ ] 
-
+- [ ] Análise de Dados concedidos para o desenvolvimento do produto
 
 
 ## Sprint 2. 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Utilização do Power BI para o Desenvolvimento do MVP do produto
+- [ ] Aplicação da Linguagem Phyton e R para o desenvolvimento do produto
 
       
 ## Sprint 3 . 
