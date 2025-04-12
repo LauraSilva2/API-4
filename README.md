@@ -85,26 +85,28 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 
 
-## Sprint 1. 
+## Sprint 1. Desenvolvimento do Projeto
 
-- [ ] Análise de Dados concedidos para o desenvolvimento do produto
-- [ ] Estruturação do GitHub
-- [ ] Estruturação dos dados
+ - [ ] Análise de Dados concedidos para o desenvolvimento do produto
+ - [ ] Estruturação do GitHub
+ - [ ] Captura de dados;
+- [ ] Tratamentos dos dados capturados.
 
-## Sprint 2. 
-- [ ] Utilização do Power BI para o Desenvolvimento do MVP do produto
-- [ ] Aplicação da Linguagem Phyton e R para o desenvolvimento do produto
-- [ ] Primeira visualização dos dados estruturados no Power BI
+## Sprint 2. Implementação
+
+ - [ ] Análise dos dados de atracação
+ - [ ] Aplicação da Linguagem Phyton e R para o desenvolvimento do produto 
+ - [ ] Visualização dos dados no Power BI
       
-## Sprint 3 . 
-- [ ] Visualização de Produtividade entre Terminais
-- [ ] Identificar terminais portuários que apresentam o maior tempo de espera
-      
- 
- ## Sprint 4 . 
+## Sprint 3 . Operacialização
+ - [ ] Principais portos em termos de quantidade transportada
+ - [ ] Visualização de Produtividade entre Portos e Terminais
+ - [ ] Identificar terminais portuários que apresentam o maior tempo de espera
+
+ ## Sprint 4 . Finalização
  - [ ] Principais portos em termos de quantidade transportada
  - [ ] Indentificar principais motivos das paradas portuárias
- - [ ]  Principais cargas transportadas por cada terminal
+ - [ ] Principais cargas transportadas por cada terminal
 
   
 # Competências desenvolvidas
