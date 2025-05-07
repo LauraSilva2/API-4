@@ -87,10 +87,10 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 ## Sprint 1. Desenvolvimento do Projeto
 
- - [ ] Análise de Dados concedidos para o desenvolvimento do produto
- - [ ] Estruturação do GitHub
- - [ ] Captura de dados;
-- [ ] Tratamentos dos dados capturados.
+ - [x] Análise de Dados concedidos para o desenvolvimento do produto
+ - [x] Estruturação do GitHub
+ - [x] Captura de dados;
+- [x] Tratamentos dos dados capturados.
 
 ## Sprint 2. Implementação
 
