@@ -65,6 +65,9 @@ Sprint | Previsão | Status| Histórico|
 
 
 
+![Nome do Vídeo]()
+
+
 # Funcionalidades e registros das sprints
 
 Apresentação das funcionalidades
