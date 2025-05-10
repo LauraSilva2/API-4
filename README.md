@@ -94,7 +94,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 ## Sprint 2. Implementação
 
- - [ ] Análise dos dados de atracação
+ - [ ] Análise dos dados de atracação de cargas
  - [ ] Aplicação da Linguagem Phyton e R para o desenvolvimento do produto 
  - [ ] Visualização dos dados no Power BI
       
