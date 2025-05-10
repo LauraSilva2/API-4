@@ -65,7 +65,10 @@ Sprint | Previsão | Status| Histórico|
 
 
 
-![Nome do Vídeo]()
+![Nome do Vídeo](API/user.JPG)
+
+
+
 
 
 # Funcionalidades e registros das sprints
