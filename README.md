@@ -37,7 +37,7 @@ Além disso, o projeto deve fornecer insights sobre os principais motivos das pa
 | Função        | Foto                                          | LinkedIn                                        | GitHub                                         |
 |---------------|-----------------------------------------------|------------------------------------------------|------------------------------------------------|
 | Product Owner (João Silva) |<img src="API/joao.jpeg" width="90"  /> | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/log-joaovasconcelos/) |  ![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)         |
-| Scrum Master (Laura Silva)     | <img src="API/eu.jpeg" width="90" />   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laura-silva-3813a322b/)  | ![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)        |
+| Scrum Master (Laura Silva)    | <img src="API/eu.jpeg" width="90" />   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laura-silva-3813a322b/)  | ![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)        |
 | Team Member (Yasmin Fernandes) | <img src="API/yasmin.jpeg" width="90" /> |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-fernandes-83a27124a/) | ![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)         |
 | Team Member (Felipe Rocha)     | <img src="API/felipe.jpeg" width="90" />   |[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-rocha-36a652230/) |![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)           |
 | Team Member (Ingrid Gonçalves)| <img src="API/ingrid.png" width="90" /> | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ingrid-gon%C3%A7alves-153637205/)  |![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)          |
@@ -63,11 +63,6 @@ Sprint | Previsão | Status| Histórico|
 - [ ] Análise dos principais motivos das paradas portuárias e sua relação com fatores específicos, como períodos sazonais.
 - [ ] Visualização das principais cargas transportadas por terminal portuário e análise dos fatores que influenciam sua predominância.
 - [ ] Identificação dos portos com maior volume de carga transportada.
-
-
-
-![Nome do Vídeo](API/user.JPG)
-
 
 
 
