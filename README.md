@@ -104,12 +104,13 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
  - [ ] Principais portos em termos de quantidade transportada
  - [ ] Visualização de Produtividade entre Portos e Terminais
  - [ ] Identificar terminais portuários que apresentam o maior tempo de espera
-
+ - [ ] Visualização de Movimentação de atracação e desatracação
+ - [ ] 
  ## Sprint 4 . Finalização
  
  - [ ] Indentificar principais motivos das paradas portuárias
  - [ ] Principais cargas transportadas por cada terminal
-
+ - [ ] Visualização do Dashboard atualizada e finalizada
   
 # Competências desenvolvidas
 
