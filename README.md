@@ -1,4 +1,5 @@
 # API-4 - Análise de Eficiência de Terminais Portuários no Brasil
+
 <div id="top"></div> 
 <p align="center"> 
       <img src="API/gif.gif" width="50%" height="60%"> 
@@ -33,6 +34,7 @@ Além disso, o projeto deve fornecer insights sobre os principais motivos das pa
 
 </details>
 
+
 # Organograma
 | Função        | Foto                                          | LinkedIn                                        | GitHub                                         |
 |---------------|-----------------------------------------------|------------------------------------------------|------------------------------------------------|
@@ -44,6 +46,7 @@ Além disso, o projeto deve fornecer insights sobre os principais motivos das pa
 | Team Member (Miriã Chaves)    | <img src="API/miria.jpeg" width="90" />   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miri%C3%A3-rodrigues-martins-chaves-9573b51a1/) | ![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)        |
 | Team Member (Lucca Silva)     | <img src="API/lucca.jpg" width="90" />   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucca-silva02/) | ![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)          |
 | Team Member (Anderson Carvalho)     | <img src="API/anderson.jpeg" width="90" />   | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-carvalho-0a5317191/) | ![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)          |
+
 
 
 # Cronograma das Sprints
@@ -67,6 +70,8 @@ Sprint | Previsão | Status| Histórico|
 
 
 
+
+
 # Funcionalidades e registros das sprints
 
 Apresentação das funcionalidades
@@ -83,6 +88,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 <p align="center"> 
       <img src="API/tecnologia.png" width="50%" height="70%"> 
 <p align="center">
+
 
 
 
