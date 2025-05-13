@@ -15,6 +15,7 @@
 * [Cronograma das Sprints](#cronograma-das-sprints)
 * [Backlog do Produto](#backlog-do-produto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Burndown](#Burndown)
 * [Competências Desenvolvidas](#competências-desenvolvidas)
 
 
@@ -117,6 +118,14 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
  - [ ] Indentificar principais motivos das paradas portuárias
  - [ ] Principais cargas transportadas por cada terminal
  - [ ] Visualização do Dashboard atualizada e finalizada
+
+
+# Burndown
+
+
+
+
+
   
 # Competências desenvolvidas
 
