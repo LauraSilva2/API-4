@@ -106,7 +106,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
  - [ ] Identificar terminais portuários que apresentam o maior tempo de espera
 
  ## Sprint 4 . Finalização
- - [ ] Principais portos em termos de quantidade transportada
+ 
  - [ ] Indentificar principais motivos das paradas portuárias
  - [ ] Principais cargas transportadas por cada terminal
 
