@@ -68,6 +68,15 @@ Sprint | Previsão | Status| Histórico|
 - [ ] Visualização das principais cargas transportadas por terminal portuário e análise dos fatores que influenciam sua predominância.
 - [ ] Identificação dos portos com maior volume de carga transportada.
 
+# User Story
+
+<div id="top"></div> 
+<p align="center"> 
+      <img src="API/user.JPG" width="70%" height="70%"> 
+<p align="center">
+
+
+
 
 
 
