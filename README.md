@@ -127,12 +127,6 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 
 # Burndown
- ## Sprint 1
-
-
-
- ## Sprint 2
-
 
  ## Sprint3
 
