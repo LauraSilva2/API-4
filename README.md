@@ -103,19 +103,22 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
  - [x] Estruturação do GitHub
  - [x] Captura de dados;
 - [x] Tratamentos dos dados capturados.
-
+- [x] Relatório Sprint 1 
 ## Sprint 2. Implementação
 
  - [x] Análise dos dados de atracação de cargas
  - [x] Aplicação da Linguagem Phyton para o desenvolvimento do produto 
  - [x] Visualização dos dados no Power BI
-      
+- [X] Aprimorar Phyton
+- [x] Perguntas para o Cliente
+
 ## Sprint 3 . Operacialização
  - [ ] Principais portos em termos de quantidade transportada
  - [ ] Visualização de Produtividade entre Portos e Terminais
  - [ ] Identificar terminais portuários que apresentam o maior tempo de espera
  - [ ] Visualização de Movimentação de atracação e desatracação
-       
+ - [ ] Nova tela de visualização do produto
+      
  ## Sprint 4 . Finalização
  
  - [ ] Indentificar principais motivos das paradas portuárias
