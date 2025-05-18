@@ -127,7 +127,8 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
  - [ ] Identificar terminais portuários que apresentam o maior tempo de espera
  - [ ] Visualização de Movimentação de atracação e desatracação
  - [ ] Nova tela de visualização do produto
-      
+ - [ ] Perguntas para o cliente
+    
  ## Sprint 4 . Finalização
  
  - [ ] Indentificar principais motivos das paradas portuárias
