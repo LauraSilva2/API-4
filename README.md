@@ -36,6 +36,7 @@ Além disso, o projeto deve fornecer insights sobre os principais motivos das pa
 </details>
 
 
+
 # Organograma
 | Função        | Foto                                          | LinkedIn                                        | GitHub                                         |
 |---------------|-----------------------------------------------|------------------------------------------------|------------------------------------------------|
@@ -142,7 +143,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
  
 <div id="top"></div> 
 <p align="center"> 
-      <img src="API/burndown1.png" width="60%" height="60%"> 
+      <img src="API/brun.png" width="60%" height="60%"> 
 <p align="center">
 
 
