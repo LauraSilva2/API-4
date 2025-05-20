@@ -139,7 +139,11 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 # Burndown
 
  ## Sprint 1 
-
+ 
+<div id="top"></div> 
+<p align="center"> 
+      <img src="API/gif.gif" width="50%" height="60%"> 
+<p align="center">
 
 
  ## Sprint 4
