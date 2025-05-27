@@ -147,7 +147,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 <p align="center">
 
 
- ## Sprint 4
+ ## Sprint 2
  
 
 
