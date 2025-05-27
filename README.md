@@ -150,7 +150,10 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
  ## Sprint 2
  
 
-
+<div id="top"></div> 
+<p align="center"> 
+      <img src="" width="60%" height="60%"> 
+<p align="center">
 
 
   
