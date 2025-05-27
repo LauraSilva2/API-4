@@ -152,7 +152,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 <div id="top"></div> 
 <p align="center"> 
-      <img src="" width="60%" height="60%"> 
+      <img src="API/burndown2.png" width="60%" height="60%"> 
 <p align="center">
 
 
