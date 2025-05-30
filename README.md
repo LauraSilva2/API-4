@@ -56,9 +56,9 @@ Além disso, o projeto deve fornecer insights sobre os principais motivos das pa
 Sprint | Previsão | Status| Histórico| 
 |------|--------|------|--------|
 |Kick Off | 14/03/2025 | Concluído | [Ver Relatório]() | 
-|01| 04/04/2025|  iniciado |[Ver Relatório]() | 
-|02| 25/04/2025| Não iniciado|[Ver Relatório]() | 
-|03| 16/05/2025 | Não iniciado |[Ver Relatório]()  | 
+|01| 04/04/2025|  Concluído |[Ver Relatório]() | 
+|02| 25/04/2025| Concluído|[Ver Relatório]() | 
+|03| 16/05/2025 | Concluído |[Ver Relatório]()  | 
 |Feira de Soluções| 29/05/2025 | Não iniciado|[Ver Relatório]()  | 
 |04| 27/06/2025 | Não iniciado |[Ver Relatório]()  
 
@@ -123,12 +123,12 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 - [x] Perguntas para o Cliente
 
 ## Sprint 3 . Operacialização
- - [ ] Principais portos em termos de quantidade transportada
- - [ ] Visualização de Produtividade entre Portos e Terminais
- - [ ] Identificar terminais portuários que apresentam o maior tempo de espera
- - [ ] Visualização de Movimentação de atracação e desatracação
- - [ ] Nova tela de visualização do produto
- - [ ] Perguntas para o cliente
+ - [x] Principais portos em termos de quantidade transportada
+ - [x] Visualização de Produtividade entre Portos e Terminais
+ - [x] Identificar terminais portuários que apresentam o maior tempo de espera
+ - [x] Visualização de Movimentação de atracação e desatracação
+ - [x] Nova tela de visualização do produto
+ - [x] Perguntas para o cliente
     
  ## Sprint 4 . Finalização
  
