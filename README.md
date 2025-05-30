@@ -73,7 +73,7 @@ Sprint | Previsão | Status| Histórico|
 
 <div id="top"></div> 
 <p align="center"> 
-      <img src="API/user.JPG" width="70%" height="70%"> 
+      <img src="API/user.JPG" width="80%" height="80%"> 
 <p align="center">
 
 
@@ -89,14 +89,14 @@ Sprint | Previsão | Status| Histórico|
 
 <div id="top"></div> 
 <p align="center"> 
-      <img src="API/image (2).png" width="70%" height="70%">                                              
+      <img src="API/image (2).png" width="80%" height="80%">                                              
 <p align="center">
 
 
 ## Tela 2
 <div id="top"></div> 
 <p align="center"> 
-      <img src="API/image.png" width="70%" height="70%"> 
+      <img src="API/image.png" width="80%" height="80%"> 
 <p align="center">
 
 
