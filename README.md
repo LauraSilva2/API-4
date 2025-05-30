@@ -106,6 +106,14 @@ Sprint | Previsão | Status| Histórico|
       <img src="API/image (1).png" width="70%" height="70%"> 
 <p align="center">
 
+## DEA - Data Envelopment Analysis
+
+<div id="top"></div> 
+<p align="center"> 
+      <img src="API/image (1).png" width="70%" height="70%"> 
+<p align="center">
+
+
 ## Tecnologias Utilizadas
 
 <div id="top"></div> 
