@@ -187,7 +187,7 @@ Sprint | Previsão | Status| Histórico|
 
 <div id="top"></div> 
 <p align="center"> 
-      <img src="" width="60%" height="60%"> 
+      <img src="API/burndown sprint3.jpg" width="60%" height="60%"> 
 <p align="center">
  
   
