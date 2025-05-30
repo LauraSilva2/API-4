@@ -99,7 +99,7 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 ## Tela 2
 <div id="top"></div> 
 <p align="center"> 
-      <img src="" width="70%" height="70%"> 
+      <img src="API/image.png" width="70%" height="70%"> 
 <p align="center">
 
 
