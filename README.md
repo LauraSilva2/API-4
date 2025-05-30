@@ -90,11 +90,20 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 
 
-![Nome do Vídeo](IMG-20250428-WA0022.jpg)
+<div id="top"></div> 
+<p align="center"> 
+      <img src="" width="70%" height="70%">                                              
+<p align="center">
 
+<div id="top"></div> 
+<p align="center"> 
+      <img src="" width="70%" height="70%"> 
+<p align="center">
 
-
-
+<div id="top"></div> 
+<p align="center"> 
+      <img src="" width="70%" height="70%"> 
+<p align="center">
 
 ## Tecnologias Utilizadas
 
