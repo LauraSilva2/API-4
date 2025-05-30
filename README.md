@@ -103,7 +103,7 @@ Sprint | Previsão | Status| Histórico|
 ## Tela 3
 <div id="top"></div> 
 <p align="center"> 
-      <img src="API/image (1).png" width="70%" height="70%"> 
+      <img src="API/image (1).png" width="80%" height="80%"> 
 <p align="center">
 
 ## DEA - Data Envelopment Analysis
