@@ -83,10 +83,7 @@ Sprint | Previsão | Status| Histórico|
 
 
 
-# Funcionalidades e registros das sprints
-
-Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
+# Protótipos 
 
 ## Tela 1
 
