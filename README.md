@@ -59,15 +59,15 @@ Sprint | Previsão | Status| Histórico|
 |01| 04/04/2025|  Concluído |[Ver Relatório]() | 
 |02| 25/04/2025| Concluído|[Ver Relatório]() | 
 |03| 16/05/2025 | Concluído |[Ver Relatório]()  | 
-|Feira de Soluções| 29/05/2025 | Não iniciado|[Ver Relatório]()  | 
+|Feira de Soluções| 29/05/2025 | Concluído|[Ver Relatório]()  | 
 |04| 27/06/2025 | Não iniciado |[Ver Relatório]()  
 
 # Backlog do produto
-- [ ] Desenvolvimento de um comparativo objetivo da produtividade entre os terminais portuários.
-- [ ] Identificação dos terminais portuários com maior tempo de espera.
-- [ ] Análise dos principais motivos das paradas portuárias e sua relação com fatores específicos, como períodos sazonais.
-- [ ] Visualização das principais cargas transportadas por terminal portuário e análise dos fatores que influenciam sua predominância.
-- [ ] Identificação dos portos com maior volume de carga transportada.
+- [x] Desenvolvimento de um comparativo objetivo da produtividade entre os terminais portuários.
+- [x] Identificação dos terminais portuários com maior tempo de espera.
+- [x] Análise dos principais motivos das paradas portuárias e sua relação com fatores específicos, como períodos sazonais.
+- [x] Visualização das principais cargas transportadas por terminal portuário e análise dos fatores que influenciam sua predominância.
+- [x] Identificação dos portos com maior volume de carga transportada.
 
 # User Story
 
